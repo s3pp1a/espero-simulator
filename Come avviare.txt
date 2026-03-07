@@ -1,0 +1,5 @@
+cd %USERPROFILE%\Desktop\espero-app
+
+npm run dev
+
+http://localhost:5173
